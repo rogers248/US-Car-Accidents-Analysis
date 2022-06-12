@@ -9,8 +9,8 @@ Here is the notebook:
 
 
 ## Requirements:
--Python3.8\<br>
--Jupyter Notebook
+*Python3.8
+*Jupyter Notebook
 
 ## Dependencies:
 Choose the latest versions of any of the dependencies below:
